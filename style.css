@@ -91,12 +91,6 @@ h1 {
     border-radius: 10px;
 }
 
-.image-phone img {
-    max-width: 346px;
-    height: auto;
-    display: block;
-}
-
 .arc {
     position: absolute;
     right: -247px;
